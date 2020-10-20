@@ -5,21 +5,20 @@
 
 ### Task 1
 
-* Files for this task: 
---`Wedge - Part 1 Cleaning`
-
---`Wedge Part 1 - GBQ Connection`: Loads all data into GBQ dataset
+Files for this task: 
+- `Wedge - Part 1 Cleaning`
+- `Wedge Part 1 - GBQ Connection`: Loads all data into GBQ dataset
 
 ### Task 2
 
-* Files for this task: 
---`Wedge Part 2`: Connects to GBQ, Builds a list of owners, takes a sample of the owners, and extracts all records associated with those owners and writes them to a local text file.
+Files for this task: 
+- `Wedge Part 2`: Connects to GBQ, Builds a list of owners, takes a sample of the owners, and extracts all records associated with those owners and writes them to a local text file.
 
 
 ### Task 3
 
-* Files for this task: 
---`Wedge Part 3`: runs the three queries and writes the txt files and database. 
+Files for this task: 
+- `Wedge Part 3`: runs the three queries and writes the txt files and database. 
 
 
 ## Query Comparison Results
@@ -52,6 +51,6 @@
 
 ## Reflections
 
-The Wedge was an interesting challenge. It was a good experience in learning to work with a large volume of data and the necessary steps to take to being able to actually use the data. I learned a lot about writing python code, SQL, and GBQ from this project. One of the most satisfying parts for me was running queries in GBQ and realizing that the cleaning and uploading of files had worked. Running the comparison queries after part 1 really showed the benefits of this project and why you would go through the work of cleaning and uploading this much data. 
+The Wedge was an interesting challenge. It was a good experience in learning to work with a large volume of data and the necessary steps to take to being able to actually use the data. I learned a lot about writing python code, SQL, and GBQ from this project. One of the most satisfying parts for me was running queries in GBQ and realizing that the cleaning and uploading of files had worked. Parts 2 and 3 really showed the benefits of this project and why you would go through the work of cleaning and uploading this much data. 
 
 I also connected with new classmates because of the Wedge project, which is a good experience for my graduate time in general. It would have been extremely difficult to complete this project alone and I learned a lot from working with other people.
